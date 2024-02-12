@@ -2,7 +2,7 @@ let leftPos = 0;
 let bottomPos = 0;
 document.getElementById("yessir").addEventListener("click", () => {
   alert(
-    "Great! I be there for you. I have to see your gorgeous look and cuttie smile<3"
+    "Great! I be there for you. I have to see your gorgeous look and cutie smile<3"
   );
 });
 document.getElementById("nooo").addEventListener("mouseover", () => {
